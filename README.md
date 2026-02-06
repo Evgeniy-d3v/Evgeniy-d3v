@@ -1,7 +1,14 @@
 # Привет, я Евгений
 
-Backend PHP / Laravel разработчик.
+Backend PHP Developer
 
+### Обо мне
+Backend PHP-разработчик с 2+ годами коммерческого опыта. Основной стек — PHP 8.x, Laravel и Symfony, с фокусом на 
+разработку и поддержку backend-сервисов и API. Имею опыт работы с очередями (RabbitMQ), кэшем (Redis) и реляционными 
+базами данных (MySQL, PostgreSQL). Занимался проектированием сервисной логики, интеграциями и асинхронной обработкой 
+задач. Понимаю принципы чистой архитектуры(DDD, SOLID, KISS, DRY), уделяю внимание качеству кода и тестированию.
+
+___
 ## Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?logo=telegram&logoColor=white)](https://t.me/T4ke1t)
 
